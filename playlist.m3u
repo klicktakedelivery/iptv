@@ -13,3 +13,32 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 #EXTINF:-1 group-title="Syria Live", قناة لنا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
 
+#EXTINF:-1 group-title="MBC Group" tvg-logo="https://i.imgur.com/392929.png", MBC 1
+https://shls-live-ak.akamaized.net/out/v1/762c686e3f2d4e3e8f498a4d46825c93/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group" tvg-logo="https://i.imgur.com/392929.png", MBC Drama
+https://shls-live-ak.akamaized.net/out/v1/d6e879029a704e9c80914856f7f6f15f/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group" tvg-logo="https://i.imgur.com/392929.png", MBC Masr
+https://shls-live-ak.akamaized.net/out/v1/9a9b6c8e3f2d4e3e8f498a4d46825c93/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group" tvg-logo="https://i.imgur.com/392929.png", MBC Masr 2
+https://shls-live-ak.akamaized.net/out/v1/67675681283344669865042457816827/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group" tvg-logo="https://i.imgur.com/392929.png", MBC 5
+https://shls-live-ak.akamaized.net/out/v1/5856412586734c579895315357816827/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group" tvg-logo="https://i.imgur.com/392929.png", MBC Iraq
+https://shls-live-ak.akamaized.net/out/v1/09516641283344669865042457816827/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group", MBC 2 (Movies)
+http://62.115.70.169:8080/MBC2/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group", MBC Action
+http://62.115.70.169:8080/MBC_Action/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group", MBC Max
+http://62.115.70.169:8080/MBC_Max/index.m3u8
+
+#EXTINF:-1 group-title="MBC Group", MBC Bollywood
+http://62.115.70.169:8080/MBC_Bollywood/index.m3u8
